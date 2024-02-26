@@ -154,7 +154,7 @@ const sampleListings = [
     country: "Netherlands",
   },
   {
-       title: "Private Island Retreat",
+    title: "Private Island Retreat",
     description:
       "Have an entire island to yourself for a truly exclusive and unforgettable vacation experience.",
     image:
@@ -180,8 +180,8 @@ const sampleListings = [
     price: 1200,
     location: "Cotswolds",
     country: "United Kingdom",
-},
-{
+  },
+  {
     title: "Historic Brownstone in Boston",
     description:
       "Step back in time in this elegant historic brownstone located in the heart of Boston.",
@@ -208,8 +208,8 @@ const sampleListings = [
     price: 1800,
     location: "Bali",
     country: "Indonesia",
-},
-{
+  },
+  {
     title: "Mountain View Cabin in Banff",
     description:
       "Enjoy breathtaking mountain views from this cozy cabin in the Canadian Rockies.",
@@ -362,9 +362,9 @@ const sampleListings = [
     price: 1200,
     location: "New Hampshire",
     country: "United States",
-      },
-      {
-      title: "Luxury Villa in the Maldives",
+  },
+  {
+    title: "Luxury Villa in the Maldives",
     description:
       "Indulge in luxury in this overwater villa in the Maldives with stunning views of the Indian Ocean.",
     image:
